@@ -1,5 +1,6 @@
 <script>
 	import AddTodoSection from '../components/AddTodoSection.svelte';
+	import TodoSection from '../components/TodoSection.svelte';
 </script>
 
 <div class="min-h-screen bg-olive-one p-0 selection:bg-green-two md:px-8 md:py-24">
@@ -12,6 +13,7 @@
 		</h1>
 		<div class="mt-10">
 			<AddTodoSection />
+			<TodoSection />
 		</div>
 	</main>
 </div>
