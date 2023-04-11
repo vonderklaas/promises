@@ -1,6 +1,7 @@
 <script>
 	import AddTodoSection from '../components/AddTodoSection.svelte';
 	import TodoSection from '../components/TodoSection.svelte';
+	import ProgressSection from '../components/ProgressSection.svelte';
 </script>
 
 <div class="min-h-screen bg-olive-one p-0 selection:bg-green-two md:px-8 md:py-24">
@@ -14,6 +15,7 @@
 		<div class="mt-10">
 			<AddTodoSection />
 			<TodoSection />
+			<ProgressSection />
 		</div>
 	</main>
 </div>
