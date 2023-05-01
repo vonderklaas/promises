@@ -1,6 +1,6 @@
 ### Svelte Checklist
 
-This is a blazingly fast "Svelte" checklist application with persistence in localStorage. I added Tailwind and related plugins to make the app look smooth and responsive on all screen sizes.
+This is a blazingly fast "Svelte" application with persistence in localStorage. To ensure that the application is functional on all screens, I have added Tailwind CSS and its plugins.
 
 ### How to run?
 
